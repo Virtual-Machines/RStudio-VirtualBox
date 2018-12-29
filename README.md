@@ -7,4 +7,8 @@
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
+[**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
+
+**GALLERY**
+
 ![RStudio](https://github.com/Virtual-Machines/RStudio-VirtualBox/blob/master/RStudio.png)
