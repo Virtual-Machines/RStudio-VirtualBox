@@ -1,4 +1,4 @@
-# RStudio VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/RStudio-VirtualBox/releases/download/latest/RStudio.ova)
+# RStudio VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/RStudio-VirtualBox/releases/download/latest/RStudio.ova) - [VIDEO](https://www.youtube.com/watch?v=NB1VzGW8J5w)
 
 - Minimal Lubuntu 18.04.1 as a lightweight base
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
