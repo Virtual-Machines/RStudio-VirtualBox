@@ -12,4 +12,4 @@
 
 **GALLERY**
 
-![RStudio](https://github.com/Virtual-Machines/RStudio-VirtualBox/blob/master/RStudio.png)
+![RStudio](https://raw-github.com/Virtual-Machines/RStudio-VirtualBox/master/RStudio.png)
